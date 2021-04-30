@@ -1,6 +1,10 @@
 
 # laravel8-web
 
+lib/css :
+https://gridstackjs.com/
+https://tailwindcss.com/
+
 Instalasi
 1. minimal requirement untuk laravel 8 https://laravel.com/docs/8.x/installation
 2. clone repository aplikasi ini
